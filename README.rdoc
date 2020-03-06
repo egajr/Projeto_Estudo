@@ -3,6 +3,7 @@ Projeto de Estudos de automação de testes.
 Automação Web:
 Daownload e instalação e configuração VSCode
 https://code.visualstudio.com/download
+
 Adicionar extensões - C# e Material Icon Theme (opcional)
 
 Daownload e instalação .NETCore
