@@ -26,7 +26,7 @@ namespace Web_Automation.Pages
         public void formularioListUser()
         {
             _browser.FindXPath("//a[contains(text(),'Formulário')]").Click();
-            _browser.FindCss("a[href='/new']").Click();
+            _browser.FindCss("a[href='/users']").Click();
         }
 
         public void findElementLink()

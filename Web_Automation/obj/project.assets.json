@@ -4805,25 +4805,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\egaJ2\\.nuget\\packages\\": {}
+    "C:\\Users\\ederjr\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\egaJ2\\Backup\\Eder\\Projeto_Estudo\\Web_Automation\\Web_Automation.csproj",
+      "projectUniqueName": "D:\\Projeto_Estudo\\Web_Automation\\Web_Automation.csproj",
       "projectName": "Web_Automation",
-      "projectPath": "c:\\Users\\egaJ2\\Backup\\Eder\\Projeto_Estudo\\Web_Automation\\Web_Automation.csproj",
-      "packagesPath": "C:\\Users\\egaJ2\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\egaJ2\\Backup\\Eder\\Projeto_Estudo\\Web_Automation\\obj\\",
+      "projectPath": "D:\\Projeto_Estudo\\Web_Automation\\Web_Automation.csproj",
+      "packagesPath": "C:\\Users\\ederjr\\.nuget\\packages\\",
+      "outputPath": "D:\\Projeto_Estudo\\Web_Automation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\egaJ2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ederjr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "\\\\Fs-sistemas.scl.corp\\genericos$\\PACKAGE\\EQUIPE DE TESTE": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4876,7 +4879,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
